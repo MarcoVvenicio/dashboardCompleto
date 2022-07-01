@@ -1,0 +1,23 @@
+
+
+.corpo{
+    text-align: center;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(180deg, #b6fcee, #00886d);
+    padding: 20px;
+    align-items: center;
+}
+
+
+.graficos{
+    text-align:center;
+}
+
+#graf1,#graf2,#graf3{
+    padding:20px;
+}
+
+
+
